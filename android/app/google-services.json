@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98453742554",
+    "firebase_url": "https://perfit-40018.firebaseio.com",
+    "project_id": "perfit-40018",
+    "storage_bucket": "perfit-40018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98453742554:android:565ed5975403f463ba96e3",
+        "android_client_info": {
+          "package_name": "com.Kangthony.Perfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98453742554-v3s7538h5klr3uhs7srbgus7tvoan190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyr23dA8yTSuaK5O2XLQH9KvrUZAhPDPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98453742554-v3s7538h5klr3uhs7srbgus7tvoan190.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
